@@ -28,7 +28,7 @@ public class A1 {
 
     private static int getMinOfAllSubStr(String str) throws InterruptedException {
         AtomicLong count = new AtomicLong();
-        System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<<str len: " + str.length());
+//        System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<<str len: " + str.length());
         //Thread.sleep(2000);
 
         int charCount = 0;
